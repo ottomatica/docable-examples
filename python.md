@@ -2,7 +2,8 @@
 
 Do Math in python / python REPL:
 
-```python|{type: 'terminal'}
+
+```|{type:'terminal', command: 'python'}
 1 + 1
 8 - 1
 10 * 2
