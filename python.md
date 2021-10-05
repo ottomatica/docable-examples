@@ -31,10 +31,3 @@ Write python code to print numbers 1 to 50, each on a new line:
 ```python | {type: 'script'}
 
 ```
-
----
-
-## Python REPL playground
-
-```|{type:'terminal', command: 'python'}
-```
